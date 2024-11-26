@@ -1,6 +1,9 @@
-Description of the Problem: This section clearly states the problem your project addresses. For instance, are you building a model to predict customer churn, classify images, or forecast sales?
-Instructions on How to Run the Project: This provides step-by-step guidance for others (or your future self) to replicate your work. It should cover:
-Setting up the environment (e.g., installing dependencies)
-Downloading the data
-Running the code (e.g., executing notebooks or scripts)
-Deploying the model (if applicable)
+# Sleep Quality Prediction Project
+
+## Description
+
+This project aims to predict sleep quality based on lifestyle and health factors using a local dataset 'Sleep_health_and_lifestyle_dataset.csv'.
+
+## Instructions on How to Run the Project
+
+1. **Install Dependencies:**
